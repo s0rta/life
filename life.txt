@@ -1,0 +1,34 @@
+Here lie the organizational schema of Jacob Trafton Wright
+
+Numbers are not negated if in relation to work or social requirements
+
+IN A DAY
+1 Wake up (25 min before thing, grow light)
+
+1 Read HN (in bed is fine) 
+1 Media (kept track of in media.txt)
+1 Hygeine pt 1 (shave if nessicary [if seeing people that day has already been planned], floss, brush teeth, drink water, deoderant, sunscreen, chapstick)
+1 Run (no on mondays) 9
+1 Eat (no on mondays)
+1 Social (kept track of in social.txt)
+1 Water plants (rotational, fill humidifier, clean scale, move outside if temp is good, something larger on saturdays)
+1 Work out (no on mondays, DAREBEE) 30 2 10 2 5
+1 Hygeine pt 2 (shower [scb], wash face, hair stuff)
+1 Eat
+1 Play with dogs (21 min)
+1 Chore (pick up poop, lawn mowing back, recycle, trash, put dishes away, load dishes)
+1 Pick up room (make bed, clean desk, all food into dish washer, clean floor, clothes away. Extras done if needed [laundry, vacuum etc.])
+1 Email/Slack (respond if nessicary)
+1 Language
+1 Eat
+1 Main quest task (tracked in focus.txt)
+!0 Work (no on saturdays, CMTC is timely, everything else is tracked in daily. Work times/meetings usurps all right now, tracked in work.txt) 6 5 4 | 26 16 6 | 0 0 0
+1 Weekly (if one is at 0, otherwise, side quest)
+1 Hygiene (morning stuff minus sunscreen and plus hydrator)
+1 Write
+
+0 Sleep (8hrs 25m sleep, if you still got time, rotate between work media social main side, grow light, mela 1 hr before)
+
+FEELING TIRED
+make coffee
+media
