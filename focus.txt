@@ -14,7 +14,7 @@ JT OS (Main quests)
 5. use lunchmoney.cc (go to lunchmoney.cc)
 6. Unixporn computer (find something fun on unixporn)
 7. make app that lets you hide writing at geocords in ar (mock MVP)
-8. social media where there is a list of users like sf but its hidden and you can only visit the pages of those who are next to your username this changes based on screen size (mock MVP)
+8. social media where there is a list of users like sf but its hidden and you can only visit the pages of those who are next to your username visually (mock MVP)
 9. make NIGHTSHIFT shirts (mock up some designs)
 
 WEEKLY HABITS

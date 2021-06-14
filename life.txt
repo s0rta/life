@@ -5,7 +5,7 @@ Numbers are not negated if in relation to work or social requirements
 IN A DAY
 1 Wake up (25 min before thing, grow light)
 
-1 Read HN (in bed is fine) 
+2 Read HN (in bed is fine) 
 1 Media (kept track of in media.txt)
 1 Hygeine pt 1 (shave if nessicary [if seeing people that day has already been planned], floss, brush teeth, drink water, deoderant, sunscreen, chapstick)
 1 Run (no on mondays) 9
@@ -27,7 +27,7 @@ IN A DAY
 1 Hygiene (morning stuff minus sunscreen and plus hydrator)
 1 Write
 
-0 Sleep (8hrs 25m sleep, if you still got time, rotate between work media social main side, grow light, mela 1 hr before)
+1 Sleep (8hrs 25m sleep, if you still got time, rotate between work media social main side, grow light, mela 1 hr before)
 
 FEELING TIRED
 make coffee
