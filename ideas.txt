@@ -1700,3 +1700,4 @@ watch playtime
 learn helix
 become active on stack overflow
 read punished by rewards
+https://www.netmeister.org/blog/infosec-competencies.html
