@@ -1701,3 +1701,4 @@ learn helix
 become active on stack overflow
 read punished by rewards
 learn amp
+https://www.netmeister.org/blog/infosec-competencies.html
