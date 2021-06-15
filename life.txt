@@ -21,8 +21,8 @@ Pick up room (make bed, clean desk, all food into dish washer, clean floor, clot
 Email/Slack (respond if nessicary)
 Language 1 (2)
 Eat 100 1 (700 21)
-Main quest task (tracked in focus.txt)
 Work (no on saturdays, CMTC is timely, everything else is tracked in daily. Work times/meetings usurps all right now) 6 5 4 | 26 16 6 | 0 0 0 | 1 (8)
+Main quest task (tracked in focus.txt)
 Weekly (if one is at 0, otherwise, side quest)
 Hygiene (morning stuff minus sunscreen and plus hydrator)
 Write
