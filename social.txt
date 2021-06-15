@@ -7,7 +7,7 @@ Liam       | 6/8/21    | 6/10/21  (3d)      | Game/Call               |
 Mom        | 6/6/21    | 6/9/21   (2d)      | Meal                    | June 9th birthday
 Marcus     | 6/8/21    | 6/9/21   (2d)      | Walk/Game/RTS           |
 Franky     | 6/16/21   | 6/19/21  (2d)      | cook/ssmmg              | October Ludum Dare
-Rachel     | 6/6/21    | 6/7/21   (2d)      | send plant photos       | plan trip
+Rachel     | 6/15/21    | 6/17/21   (3d)      | send plant photos       | plan trip
 
 Chris      | Reach out about dinner after charleston
 Jake       | Dinner 6/21
