@@ -1702,3 +1702,4 @@ become active on stack overflow
 read punished by rewards
 learn amp
 https://www.netmeister.org/blog/infosec-competencies.html
+get into wigle.net

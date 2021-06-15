@@ -2,7 +2,7 @@ NAME       | LAST TALK | NEXT EARLIEST TALK | TOPICS                  | IMPORTAN
 
 Tristan    | 6/11/21   | 6/12/21  (2d)      | Trip/Dota/Shirts (3/12) | Halloween 
 Marguerite | 6/7/21    | 6/9/21   (1d)      | Movies/Huh/Dota         |
-Alex       | 6/14/21   | 6/16/21  (2d)      | Paint/Cemetary          |
+Alex       | 6/17/21   | 6/19/21  (3d)      | Paint/Cemetary          |
 Liam       | 6/8/21    | 6/10/21  (3d)      | Game/Call               |
 Mom        | 6/6/21    | 6/9/21   (2d)      | Meal                    | June 9th birthday
 Marcus     | 6/8/21    | 6/9/21   (2d)      | Walk/Game/RTS           |
@@ -10,4 +10,4 @@ Franky     | 6/16/21   | 6/19/21  (2d)      | cook/ssmmg              | October 
 Rachel     | 6/6/21    | 6/7/21   (2d)      | send plant photos       | plan trip
 
 Chris      | Reach out about dinner after charleston
-Jake       | Reach out about dinner 6/11
+Jake       | Dinner 6/21
