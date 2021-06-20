@@ -24,7 +24,7 @@ Language 2
 Eat 200 2 (700 21)
 Main quest task (tracked in focus.txt)
 Weekly (if one is at 0, otherwise, side quest)
-Hygiene (morning stuff minus sunscreen and plus hydrator)
+$Hygiene (morning stuff minus sunscreen and plus hydrator)
 Write
 Meditate 1 (21)
 
