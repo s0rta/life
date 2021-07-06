@@ -1718,3 +1718,4 @@ https://app.qvault.io/
 fullstackopen.com
 Move to Ellijay Georgia
 find your cofounder
+https://github.com/ossu/computer-science
