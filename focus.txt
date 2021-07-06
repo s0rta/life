@@ -1,4 +1,4 @@
-Your dad is praying and cheering for you, never forget that | Have faith in the follow though | Flourish in the lag time | 1103/21,000 | 
+Your dad is praying and cheering for you, never forget that | Have faith in the follow though | Flourish in the lag time | 1104/21,000 | 
 
 PAID (CMTC 26 6 0) (GD 16 5 0) (Sophie 6 4 0) (26/hr)
 1. CMTC
@@ -6,7 +6,7 @@ PAID (CMTC 26 6 0) (GD 16 5 0) (Sophie 6 4 0) (26/hr)
 4. Site for Sophie
 
 JT OS (Main quests) 
-0. Create Bump (ability to select playlist)
+0. Create Bump (create array of songs from selected playlist)
 1. Go to farm in another country (find farm)
 2. Make artist a portfolio (meet artist)
 3. go to the recurse center (apply)
@@ -21,7 +21,8 @@ WEEKLY HABITS
 0. (bathroom [vacuum]) (1/7)
 2. Go to something [sand dunes w marcus (build board first)/youth camping trip/art museum/boston to see rachel/trip to estas w friends/summit/mesa verde w grandparents] (3/7)
 5. Save money (invest $1 more a month fr both accounts/pay $21 towards loans/memes) (5/7)
-6. Side projects (/location grabbing for lgsts/get list from mom/fantasy blaseball w logan/discord bot w margurite/continue WD) (7/7)
+6. Side projects (location grabbing for lgsts/get list from mom/fantasy blaseball w logan/discord bot w margurite/continue WD) (7/7)
+
 
 SIDE QUESTS (24 figure out health care)
 2. Read books tree guy gave you (revolution one)
@@ -37,3 +38,4 @@ SIDE QUESTS (24 figure out health care)
 71. Get an ssd for your box
 72. Get renters insurance
 73. New underwear 
+74. New linux

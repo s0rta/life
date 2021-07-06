@@ -6,18 +6,18 @@ IN A DAY
 Wake up (10 (25) min before thing, grow light)
 
 Read HN (in bed is fine) 
-Media (kept track of in media.txt)
-Hygeine pt 1 (shave if nessicary [if seeing people that day has already been planned], floss, brush teeth, drink water, deoderant, sunscreen, chapstick)
-Run (no on mondays or 90+) 20 (0)
-Eat (no on mondays) 400 4 (700 21)
-Social (kept track of in social.txt)
-Water plants (rotational, fill humidifier, clean scale, move around (lemon 40-89, tea 35-79), something larger on saturdays)
-Work out (no on mondays, DAREBEE) 30 1 10 1 5
-Hygeine pt 2 (p 21 (5) shower [scb], wash face, hair stuff)
-Eat 500 5 (700 21)
-Play with dogs (3 (21) min)
-Pick up room (make bed, clean desk, all food into dish washer, clean floor, clothes away. Extras done if needed [laundry, vacuum etc.])
-Chore (pick up poop, lawn mowing back, recycle, trash, put dishes away, load dishes) 2
+.Media (kept track of in media.txt)
+.Hygeine pt 1 (shave if nessicary [if seeing people that day has already been planned], floss, brush teeth, drink water, deoderant, sunscreen, chapstick)
+.Run (no on mondays or 90+) 20 (0)
+.Eat (no on mondays) 400 4 (700 21)
+.Social (kept track of in social.txt)
+.Water plants (rotational, fill humidifier, clean scale, move around (lemon 40-89, tea 35-79), something larger on saturdays)
+.Work out (no on mondays, DAREBEE) 30 1 10 1 5
+.Hygeine pt 2 (p 21 (5) shower [scb], wash face, hair stuff)
+.Eat 500 5 (700 21)
+.Play with dogs (3 (21) min)
+.Pick up room (make bed, clean desk, all food into dish washer, clean floor, clothes away. Extras done if needed [laundry, vacuum etc.])
+.Chore (pick up poop, lawn mowing back, recycle, trash, put dishes away, load dishes) 2
 Email/Slack (respond if nessicary)
 Work (no on saturdays, CMTC is timely, everything else is tracked in daily. Work times/meetings usurps all right now) 6 5 4 | 26 16 6 | 0 0 0 | 1 (8)
 Language 2
